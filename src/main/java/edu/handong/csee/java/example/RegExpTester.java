@@ -45,8 +45,6 @@ public class RegExpTester {
 		
 		System.out.println(String.format("%02d", hour) + ":" + String.format("%02d", minute));
 		
-		String myStringToParse3 = "[9:01 AM]";
-		
 		String[] lines = {"[Student] [오전 7:16] Yes I think so..",
 				"[JC] [오전 8:24] Yes, I think so too. Private variables are created when we call super. But I'm not sure if two instances are created. Some developer said that one instance is created. https://stackoverflow.com/questions/9005851/does-an-instance-of-superclass-get-created-when-we-instantiate-an-object?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa but I think two instances are created but they are directly connected. Instance of subclass can't directly access private members in superclass. You may write some code to check it. It's interesting discussion. Thanks!"};
 		
