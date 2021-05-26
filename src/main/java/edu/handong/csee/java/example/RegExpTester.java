@@ -67,8 +67,6 @@ public class RegExpTester {
 				System.out.println("strMessage=" + strMessage);
 			}
 		}
-		
-		
 	}
 
 }
